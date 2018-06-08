@@ -105,6 +105,7 @@ venv.bak/
 
 # Data Folders
 data/
+exports/
 
 # PyCharm
 .idea/
