@@ -1,6 +1,6 @@
-from lib.proc import ParquetWrap
-from lib.proc import persist_h5
-from lib.proc import persist_sql
+from core.proc import ParquetWrap
+from core.proc import persist_h5
+from core.proc import persist_sql
 import pandas as pd
 import numpy as np
 import os
